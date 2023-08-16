@@ -1,0 +1,2 @@
+# Collective Trust
+Each voter simply  nominates one or more people; each person you nominate receives a share of your vote. The interesting part is that each vote is transitive; by nominating someone, each person they nominate also receives a slightly larger vote, and so on down the chain. People with the most total votes (directly nominated + transitive) are the elected representatives. 
